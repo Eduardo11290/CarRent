@@ -240,4 +240,102 @@
     transition: background-color 0.3s ease;
     margin-top: 40px;
   }
-  
+  /* === CartItem.css — unified button sizes & colors === */
+
+/* make sure box sizing is predictable */
+.cart-container,
+.cart-container * {
+  box-sizing: border-box;
+}
+
+/* Basic style for every button in cart area to unify height/typography */
+.cart-container button {
+  font-family: inherit;
+  font-size: 16px;
+  line-height: 1;
+  height: 40px;              /* same height for all buttons */
+  min-width: 40px;
+  padding: 0 12px;           /* horizontal padding for text buttons */
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform .12s ease, opacity .12s ease;
+}
+
+/* small square appearance for quantity +/- buttons */
+.quantity-controls button,
+.quantity-button {
+  width: 40px;               /* square buttons */
+  padding: 0;
+  background: #eee;
+  color: #333;
+  border: 1px solid #d1d1d1;
+  box-shadow: none;
+  font-size: 18px;
+}
+
+/* space between quantity and number */
+.quantity-controls {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* quantity number style */
+.quantity-controls .quantity,
+.quantity {
+  min-width: 28px;
+  text-align: center;
+  font-weight: 600;
+}
+
+/* Delete button: pill-shaped and red */
+.delete-button {
+  width: 100px;              /* wider, pill-style */
+  background-color: #f5625d; /* red */
+  color: white;
+  border-radius: 8px;
+  padding: 0 12px;
+  margin-top: 8px;
+}
+
+/* Hover states */
+.cart-container button:hover {
+  transform: translateY(-1px);
+  opacity: 0.95;
+}
+
+/* Continue / Checkout buttons (big green pills) */
+.continue-button,
+.checkout-button {
+  width: 260px;              /* match screenshot large width */
+  background-color: #4caf50;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 8px;
+  padding: 0 20px;
+}
+
+/* Clear button (if present) */
+.clear-button {
+  width: 140px;
+  background-color: #f44336;
+  color: #fff;
+}
+
+/* ensure buttons don't collapse on small screens */
+@media (max-width: 560px) {
+  .continue-button,
+  .checkout-button {
+    width: 90%;
+  }
+  .cart-buttons {
+    gap: 12px;
+  }
+  .delete-button {
+    width: 140px;
+  }
+}
