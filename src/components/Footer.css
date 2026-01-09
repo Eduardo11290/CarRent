@@ -1,18 +1,18 @@
 /* Footer Container */
 .footer {
-    background-color: #050505; /* Negru profund */
-    color: #b0b0b0; /* Gri deschis pentru text, nu alb pur (e mai odihnitor) */
+    background-color: #050505; /* Deep black */
+    color: #b0b0b0; /* Light gray for text, not pure white (easier on the eyes) */
     padding: 70px 0 20px;
     font-family: 'Roboto', sans-serif;
     border-top: 1px solid #222;
-    margin-top: 80px; /* Spațiu față de conținutul de sus */
+    margin-top: 80px; /* Space from content above */
 }
 
 .footer-content {
     max-width: 1200px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1.5fr 1fr 1fr; /* Prima coloană mai lată */
+    grid-template-columns: 1.5fr 1fr 1fr; /* First column wider */
     gap: 40px;
     padding: 0 20px;
 }
@@ -35,7 +35,7 @@
     color: #ff4d4d;
 }
 
-/* Text descriere */
+/* Description text */
 .footer-description {
     line-height: 1.6;
     margin-bottom: 20px;
@@ -67,7 +67,7 @@
     transform: translateY(-3px);
 }
 
-/* Link-uri utile */
+/* Useful links */
 .links ul {
     list-style: none;
     padding: 0;
@@ -86,13 +86,13 @@
 
 .links ul li a:hover {
     color: #ff4d4d;
-    transform: translateX(5px); /* Mișcare fină spre dreapta */
+    transform: translateX(5px); /* Subtle movement to the right */
 }
 
 /* Contact Info */
 .contact-item {
     display: flex;
-    align-items: flex-start; /* Aliniere sus pentru adrese lungi */
+    align-items: flex-start; /* Align top for long addresses */
     margin-bottom: 15px;
     gap: 15px;
 }
@@ -123,7 +123,7 @@
 /* Responsive */
 @media (max-width: 768px) {
     .footer-content {
-        grid-template-columns: 1fr; /* O singură coloană pe mobil */
+        grid-template-columns: 1fr; /* Single column on mobile */
         text-align: center;
     }
 

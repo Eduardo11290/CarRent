@@ -1,11 +1,11 @@
 namespace CarRent.Backend.Models
 {
-    // Moștenire: Car este un Vehicle
+    // Inheritance: Car is a Vehicle
     public class Car : Vehicle
     {
         public List<string> Images { get; set; } = new();
         
-        // Compoziție: Car "are" Specs și Features
+        // Composition: Car has Specs and Features
         public CarSpecs Specs { get; set; } = new();
         public CarFeatures Features { get; set; } = new();
 
@@ -31,7 +31,7 @@ namespace CarRent.Backend.Models
         public List<string> Safety { get; set; } = new();
     }
     
-    // Structura pentru a citi exact formatul din frontend
+    // Structure to match the frontend data format
     public class CategoryWrapper
     {
         public string Category { get; set; } = string.Empty;

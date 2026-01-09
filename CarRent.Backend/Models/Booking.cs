@@ -2,7 +2,7 @@ namespace CarRent.Backend.Models
 {
     public class Booking
     {
-        public string Id { get; set; } = Guid.NewGuid().ToString(); // ID unic generat automat
+        public string Id { get; set; } = Guid.NewGuid().ToString(); 
         public string CarId { get; set; } = string.Empty;
         public string CarName { get; set; } = string.Empty;
         public string StartDate { get; set; } = string.Empty;

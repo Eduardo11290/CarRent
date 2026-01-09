@@ -5,7 +5,7 @@ import CarDetail from './CarDetail';
 import CartItem from './CartItem';
 import AboutUs from './AboutUs.jsx'; 
 import Footer from './components/Footer.jsx'; 
-import Navbar from './components/Navbar.jsx'; // <--- NEW IMPORT
+import Navbar from './components/Navbar.jsx'; 
 import LegalPage from './LegalPage.jsx'; 
 
 function App() {

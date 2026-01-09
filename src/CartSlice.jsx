@@ -36,11 +36,8 @@ export const CartSlice = createSlice({
       if (item) {
         item.quantity = quantity;
 
-        // --- AICI ESTE NOUL COD PENTRU DATA DINAMICĂ ---
-        // Dacă avem o dată de start validă (nu e "Neselectat"), recalculăm data de final
         if (item.startDate && item.startDate !== 'Neselectat') {
             const start = new Date(item.startDate);
-            // Adăugăm numărul de zile (quantity) la data de start
             start.setDate(start.getDate() + quantity);
             
             // Formatăm noua dată ca YYYY-MM-DD

@@ -1,7 +1,7 @@
-/* CartItem.css - Dark Premium Design */
+/* CartItem.css*/
 
 .cart-container {
-    padding: 100px 20px 50px 20px; /* Padding sus pentru meniul fix */
+    padding: 100px 20px 50px 20px; /* Top padding for fixed menu */
     min-height: 100vh;
     background: radial-gradient(circle at 50% 10%, #1a0505 0%, #000000 60%);
     color: white;
@@ -21,7 +21,7 @@
     margin-right: auto;
 }
 
-/* --- Stiluri pentru lista goală --- */
+/* --- Styles for empty list --- */
 .empty-cart {
     text-align: center;
     padding: 50px;
@@ -37,7 +37,7 @@
     margin-bottom: 20px;
 }
 
-/* --- Lista de produse --- */
+/* --- Product list --- */
 .cart-items-list {
     max-width: 900px;
     margin: 0 auto;
@@ -46,7 +46,7 @@
     gap: 20px;
 }
 
-/* CARDUL PRODUSULUI - Glassmorphism */
+/* PRODUCT CARD - Glassmorphism */
 .cart-item {
     display: flex;
     align-items: center;
@@ -92,7 +92,7 @@
     margin-bottom: 15px;
 }
 
-/* Control Cantitate */
+/* Quantity control */
 .cart-item-quantity {
     display: flex;
     align-items: center;
@@ -127,7 +127,7 @@
     text-align: center;
 }
 
-/* Subtotal și Ștergere */
+/* Subtotal and Delete */
 .cart-item-actions {
     display: flex;
     justify-content: space-between;
@@ -160,7 +160,7 @@
     color: white;
 }
 
-/* --- SECȚIUNEA REZUMAT (JOS) --- */
+/* --- SUMMARY SECTION (BOTTOM) --- */
 .cart-summary {
     max-width: 900px;
     margin: 40px auto 0 auto;

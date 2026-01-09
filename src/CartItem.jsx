@@ -36,11 +36,9 @@ const CartItem = () => {
     dispatch(removeItem(item.id));
   };
 
-  // --- NOUL COD: Trimiterea rezervării la Server ---
   const handleCheckoutShopping = async () => {
     if (cart.length === 0) return;
 
-    // Iterăm prin fiecare mașină din coș și o trimitem la server
     for (const item of cart) {
         const bookingData = {
             CarId: item.id,
@@ -69,9 +67,9 @@ const CartItem = () => {
     }
 
     alert('Rezervarea a fost trimisă cu succes! Datele au fost salvate pe server.');
-    // Aici ai putea goli coșul automat, dar lăsăm utilizatorul să decidă
+
   };
-  // ----------------------------------------------------
+ 
 
   return (
     <div className="cart-container">

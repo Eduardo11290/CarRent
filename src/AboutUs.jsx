@@ -11,7 +11,7 @@ function AboutUs() {
       <div className="shape shape-1"></div>
       <div className="shape shape-2"></div>
       
-      {/* Cardul de sticlă (Glassmorphism) */}
+      {/* Glass card (Glassmorphism) */}
       <div className="glass-content">
         <h1 className="brand-title">AutoRent <span className="highlight">Premium</span></h1>
         
@@ -24,7 +24,6 @@ function AboutUs() {
           De la limuzine business la mașini sport, suntem gata de drum.
         </p>
         
-        {/* AICI AM REPARAT BUTONUL: Acum este un Link către /cars */}
         <div style={{ marginTop: '30px' }}>
             <Link to="/cars" className="cta-link">
               <button className="cta-button">

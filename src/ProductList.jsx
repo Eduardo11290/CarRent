@@ -1,20 +1,18 @@
-import React, { useEffect, useState } from 'react'; // <--- Am adăugat useState
+import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom'; // <--- (1) Am adăugat useLocation
 import './ProductList.css';
 import { addItem } from './CartSlice';
-// AM ȘTERS: import carsData from './carsData'; 
 
 function ProductList() {
     const dispatch = useDispatch();
     const cartItems = useSelector(state => state.cart.items);
+    const location = useLocation(); // <--- (2) Hook pentru a citi URL-ul (hash-ul)
     
-    // --- NOUL COD: Stare pentru mașini venite din Backend ---
     const [carsData, setCarsData] = useState([]);
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        // Cerem datele de la serverul C#
         fetch('http://localhost:5132/api/cars')
             .then(response => {
                 if (!response.ok) {
@@ -23,7 +21,7 @@ function ProductList() {
                 return response.json();
             })
             .then(data => {
-                setCarsData(data); // Salvăm datele primite
+                setCarsData(data);
                 setLoading(false);
             })
             .catch(error => {
@@ -31,12 +29,21 @@ function ProductList() {
                 setLoading(false);
             });
 
-        const savedScroll = sessionStorage.getItem('scrollPosition');
-        if (savedScroll) {
-            window.scrollTo(0, parseInt(savedScroll));
+        // --- (3) COD NOU: SCROLL AUTOMAT LA CATEGORIE ---
+        // Verificăm dacă există un hash în URL (ex: #cat-0)
+        if (location.hash) {
+            const id = location.hash.replace('#', '');
+            // Așteptăm puțin (500ms) ca să fim siguri că datele s-au randat pe ecran
+            setTimeout(() => {
+                const element = document.getElementById(id);
+                if (element) {
+                    element.scrollIntoView({ behavior: 'smooth' });
+                }
+            }, 500);
         }
-    }, []);
-    // -------------------------------------------------------
+        // -----------------------------------------------
+
+    }, [location]); // Se re-execută dacă se schimbă URL-ul
 
     const saveScrollPosition = () => {
         sessionStorage.setItem('scrollPosition', window.scrollY);
@@ -70,6 +77,7 @@ function ProductList() {
         <div className="main-container">
             <div className="product-grid">
                 {carsData.map((category, index) => (
+                    // ID-ul este critic pentru scroll: cat-0, cat-1...
                     <div key={index} id={`cat-${index}`} style={{ marginBottom: '50px', scrollMarginTop: '100px' }}>
                         <h2>{category.category}</h2>
                         
@@ -77,7 +85,6 @@ function ProductList() {
                             {category.cars.map((car) => (
                                 <div className="product-card" key={car.id}>
                                     <Link to={`/cars/${car.id}`} onClick={saveScrollPosition} style={{ height: '200px', overflow: 'hidden', cursor: 'pointer', position: 'relative' }}>
-                                        {/* Verificăm dacă images există și are elemente */}
                                         <img src={car.images && car.images.length > 0 ? car.images[0] : 'https://via.placeholder.com/300'} alt={car.name} />
                                         <div style={{position: 'absolute', bottom: 0, left: 0, width: '100%', height: '50px', background: 'linear-gradient(to top, rgba(0,0,0,0.8), transparent)'}}></div>
                                     </Link>

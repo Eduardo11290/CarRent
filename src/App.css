@@ -1,10 +1,8 @@
-/* Global Reset */
+/* App.css */
 body, html {
   margin: 0;
   padding: 0;
   width: 100%;
-  /* CRITICAL FIX: Changed from height: 100% to min-height: 100vh */
-  /* This allows the body to grow as content is added (scrolling enabled) */
   min-height: 100vh;
   
   /* Background color for the entire app (Dark Mode) */
@@ -14,7 +12,6 @@ body, html {
   /* Modern font stack */
   font-family: 'Montserrat', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   
-  /* CRITICAL FIX: Ensure vertical scrolling is allowed */
   overflow-y: auto; 
   overflow-x: hidden; /* Prevent horizontal scrollbars */
 }

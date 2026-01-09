@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
 import { addItem } from './CartSlice';
-// AM ȘTERS: import carsData from './carsData'; 
 import './CarDetail.css'; 
 
 const CarDetail = () => {
@@ -11,7 +10,7 @@ const CarDetail = () => {
     const navigate = useNavigate();
     const cartItems = useSelector(state => state.cart.items);
 
-    // --- NOUL COD: State pentru mașina curentă ---
+    //State for the current car ---
     const [car, setCar] = useState(null);
     const [loading, setLoading] = useState(true);
 
@@ -24,11 +23,11 @@ const CarDetail = () => {
     useEffect(() => {
         window.scrollTo(0, 0);
 
-        // Fetch pentru a găsi mașina specifică
+        // Fetch to find the specific car
         fetch('http://localhost:5132/api/cars')
             .then(res => res.json())
             .then(data => {
-                // Căutăm mașina în toate categoriile
+                // Search for the car across all categories
                 const foundCar = data
                     .flatMap(category => category.cars)
                     .find(c => c.id === id);

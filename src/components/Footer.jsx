@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-content">
         
-        {/* Coloana 1: Brand & Despre */}
+        {/* Column 1: Brand & About */}
         <div className="footer-section about">
           <h3 className="footer-logo">AutoRent <span className="highlight">Premium</span></h3>
           <p className="footer-description">
@@ -23,7 +23,7 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Coloana 2: Link-uri Utile (Navigare) */}
+        {/* Column 2: Useful Links (Navigation) */}
         <div className="footer-section links">
           <h4>Informații Clienți</h4>
           <ul>
@@ -35,7 +35,7 @@ const Footer = () => {
           </ul>
         </div>
 
-        {/* Coloana 3: Contact */}
+        {/* Column 3: Contact */}
         <div className="footer-section contact">
           <h4>Contactează-ne</h4>
           <div className="contact-item">

@@ -2,12 +2,12 @@ using System.Text.Json;
 
 namespace CarRent.Backend.Services
 {
-    // Implementarea Wrapper-ului
+    //Wrapper class for file operations
     public class FileService : IFileService
     {
         private readonly ILogger<FileService> _logger;
 
-        // Folosire ILogger (Cerința <= 10)
+        // ILogger
         public FileService(ILogger<FileService> logger)
         {
             _logger = logger;
@@ -29,7 +29,7 @@ namespace CarRent.Backend.Services
             catch (Exception ex)
             {
                 _logger.LogError(ex, $"Eroare la citirea fișierului {filePath}");
-                throw; // Tratează eroarea mai sus
+                throw; 
             }
         }
 

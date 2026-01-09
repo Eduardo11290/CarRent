@@ -1,7 +1,7 @@
 /* CarDetail.css - Dark Premium Theme + Gallery */
 
 .car-detail-page {
-    /* Un gradient subtil roșu închis în partea de sus, care se pierde în negru */
+    /* A subtle dark red gradient at the top that fades into black */
     background: radial-gradient(circle at 50% 10%, #2a0a0a 0%, #000000 60%);
     min-height: 100vh;
     color: white;
@@ -19,15 +19,15 @@
 .left-content { flex: 2; }
 .car-title { font-size: 2.5rem; color: white; margin-bottom: 20px; font-weight: 700; }
 
-/* --- GALERIE FOTO --- */
+/* --- PHOTO GALLERY --- */
 .image-gallery-box {
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
     border: 1px solid #222;
     margin-bottom: 40px;
-    position: relative; /* IMPORTANT pentru butoane */
-    height: 500px; /* Înălțime fixă pentru consistență */
+    position: relative; /* IMPORTANT for buttons */
+    height: 500px; /* Fixed height for consistency */
     background: #000;
 }
 
@@ -39,7 +39,7 @@
     transition: opacity 0.3s ease-in-out;
 }
 
-/* Butoane Slider */
+/* Slider Buttons */
 .slider-btn {
     position: absolute;
     top: 50%;
@@ -75,7 +75,7 @@
     font-weight: bold;
 }
 
-/* --- RESTUL STILURILOR (Cards, Specs, Calculator) --- */
+/* --- REST OF STYLES (Cards, Specs, Calculator) --- */
 .section-card { background: #111; border: 1px solid #222; border-radius: 12px; padding: 30px; margin-bottom: 30px; }
 .section-title { font-size: 1.5rem; border-bottom: 2px solid #ff4d4d; padding-bottom: 10px; margin-bottom: 20px; display: inline-block; color: white; }
 .car-desc { line-height: 1.8; color: #ccc; margin-bottom: 30px; }
@@ -94,19 +94,19 @@
 .feature-list li { color: #ccc; font-size: 14px; }
 /* CarDetail.css */
 
-/* Facem sidebar-ul să stea fix când dai scroll (opțional, dar arată bine) */
+/* Make the sidebar sticky on scroll (optional, looks nice) */
 .right-sidebar {
     flex: 1;
     min-width: 350px;
     position: sticky;
-    top: 100px; /* Să nu intre sub meniu */
+    top: 100px; /* So it doesn't go under the menu */
     height: fit-content;
 }
 
-/* Efectul de STICLĂ (Glassmorphism) */
+/* GLASS effect (Glassmorphism) */
 .calculator-card {
     background: rgba(30, 30, 30, 0.6); /* Transparent */
-    backdrop-filter: blur(10px); /* Efect de ceață în spate */
+    backdrop-filter: blur(10px); /* Foggy backdrop effect */
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 20px;
     padding: 30px;
@@ -120,7 +120,7 @@
     color: #fff;
     margin-bottom: 25px;
     text-align: center;
-    text-shadow: 0 0 10px rgba(255, 77, 77, 0.5); /* Glow roșu subtil */
+    text-shadow: 0 0 10px rgba(255, 77, 77, 0.5); 
 }
 
 .price-tag span {
@@ -129,10 +129,9 @@
     font-weight: 400;
 }
 
-/* --- CALCULATOR PREMIUM (DESIGN NOU) --- */
 
 .calculator-card {
-    background: rgba(20, 20, 20, 0.8); /* Mai închis */
+    background: rgba(20, 20, 20, 0.8); 
     backdrop-filter: blur(15px);
     border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: 16px;
@@ -140,7 +139,7 @@
     box-shadow: 0 10px 40px rgba(0,0,0,0.5);
 }
 
-/* Container pentru a separa inputurile */
+/* Container to separate inputs */
 .date-group {
     display: flex;
     flex-direction: column;
@@ -151,27 +150,25 @@
 .date-field label {
     display: block;
     margin-bottom: 8px;
-    color: #ff4d4d; /* Accent roșu la text */
+    color: #ff4d4d; 
     font-size: 0.85rem;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
-/* Input-ul propriu-zis - STIL SF */
 .premium-date-input {
     width: 100%;
     padding: 12px 15px;
-    background: #0a0a0a; /* Aproape negru */
+    background: #0a0a0a; 
     border: 1px solid #333;
     border-radius: 8px;
     color: white;
-    font-family: 'Roboto', sans-serif; /* Sau fontul tău */
+    font-family: 'Roboto', sans-serif; 
     font-size: 1rem;
     outline: none;
     transition: all 0.3s ease;
     
-    /* ASTA FACE CALENDARUL NEGRU (MAGIC!) */
     color-scheme: dark; 
 }
 
@@ -181,7 +178,7 @@
     background: #000;
 }
 
-/* Stilizează iconița de calendar din interiorul input-ului */
+/* Style the calendar icon inside the input */
 .premium-date-input::-webkit-calendar-picker-indicator {
     opacity: 0.6;
     cursor: pointer;
@@ -193,7 +190,7 @@
     filter: drop-shadow(0 0 5px #fff);
 }
 
-/* Butonul de Calcul */
+/* Calculate button */
 .calc-btn {
     width: 100%;
     padding: 14px;
@@ -213,7 +210,6 @@
     box-shadow: 0 0 20px rgba(255, 77, 77, 0.4);
 }
 
-/* Prețul mare */
 .price-tag {
     text-align: center;
     font-size: 3rem;
@@ -224,7 +220,7 @@
 }
 
 
-/* Rezultatul final */
+/* Final result */
 .result-box {
     margin-top: 25px;
     padding-top: 20px;
