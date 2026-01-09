@@ -50,7 +50,7 @@ const CartItem = () => {
         };
 
         try {
-            const response = await fetch('http://localhost:5132/api/bookings', {
+            const response = await fetch('http://autorentpremium.runasp.net/api/bookings', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

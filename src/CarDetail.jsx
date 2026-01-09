@@ -24,7 +24,7 @@ const CarDetail = () => {
         window.scrollTo(0, 0);
 
         // Fetch to find the specific car
-        fetch('http://localhost:5132/api/cars')
+        fetch('http://autorentpremium.runasp.net/api/cars')
             .then(res => res.json())
             .then(data => {
                 // Search for the car across all categories

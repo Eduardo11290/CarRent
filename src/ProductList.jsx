@@ -13,7 +13,7 @@ function ProductList() {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('http://localhost:5132/api/cars')
+        fetch('http://autorentpremium.runasp.net/api/cars')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');
