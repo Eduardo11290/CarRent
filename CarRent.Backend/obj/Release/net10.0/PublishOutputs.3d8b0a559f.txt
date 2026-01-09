@@ -1,0 +1,14 @@
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\CarRent.Backend.exe
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\appsettings.Development.json
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\appsettings.json
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\Data\bookings.json
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\Data\cars.json
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\CarRent.Backend.dll
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\CarRent.Backend.deps.json
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\CarRent.Backend.runtimeconfig.json
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\CarRent.Backend.pdb
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\Microsoft.OpenApi.dll
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C++\ProiectPOO\CarRent\CarRent.Backend\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

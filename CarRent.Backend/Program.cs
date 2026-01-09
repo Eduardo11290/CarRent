@@ -12,14 +12,15 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IFileService, FileService>();
 
 // Configure CORS (allow the React frontend on port 5173 to request data)
+// ACTUALIZAT: Am schimbat politica pentru a permite accesul de oriunde (Vercel + Localhost)
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowReactApp",
+    options.AddPolicy("AllowAll",
         policy =>
         {
-            policy.WithOrigins("http://localhost:5173") // Your frontend port
-                  .AllowAnyHeader()
-                  .AllowAnyMethod();
+            policy.AllowAnyOrigin()  // Permite conexiunea de oriunde (Vercel, Localhost, etc.)
+                  .AllowAnyMethod()
+                  .AllowAnyHeader();
         });
 });
 
@@ -32,7 +33,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseCors("AllowReactApp");
+//Folosim politica "AllowAll" definită mai sus
+app.UseCors("AllowAll");
 
 app.UseAuthorization();
 

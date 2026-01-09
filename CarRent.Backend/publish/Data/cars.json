@@ -1,0 +1,1312 @@
+[
+  {
+    "category": "Economic & Compact",
+    "cars": [
+      {
+        "id": "toyota-corolla",
+        "name": "Toyota Corolla Hybrid",
+        "cost": 45,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/77/77e41c87-69ad-422a-83c2-ad5c854f6986?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/ba/ba2553c3-cdb0-4bd3-8f5e-907169cc9318?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/49/4928b310-ba87-4450-bffc-5702bcf9232a?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/d9/d96ae955-4fc8-4eaf-9e7d-d942e4d405de?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/d9/d96ae955-4fc8-4eaf-9e7d-d942e4d405de?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/12/1288675d-f572-4979-b9f1-47b52268abe4?rule=mo-1600"
+        ],
+        "description": "Toyota Corolla Hybrid este liderul incontestabil al eficienței urbane și al fiabilității. Echipată cu cea mai recentă generație a sistemului hibrid Toyota, această mașină permite rularea în mod pur electric pe mai bine de 50% din timpul petrecut în traficul urban.",
+        "specs": {
+          "Transmission": "Automată e-CVT",
+          "Fuel": "Hibrid (Benzină/Electric)",
+          "Year": "2022",
+          "Engine": "1.8L VVT-i Hybrid",
+          "Power": "122 CP"
+        },
+        "features": {
+          "audio": [
+            "Apple CarPlay Wireless",
+            "Android Auto",
+            "Ecran tactil 8 inch",
+            "Sistem Audio 6 difuzoare",
+            "Bluetooth 5.0",
+            "Comenzi Vocale",
+            "USB-C Față/Spate"
+          ],
+          "comfort": [
+            "Climatronic 2 zone",
+            "Scaune față încălzite",
+            "Suport lombar electric",
+            "Volan multifuncțional piele",
+            "Cotieră centrală",
+            "Keyless Go",
+            "Senzor ploaie și lumină"
+          ],
+          "safety": [
+            "Toyota Safety Sense",
+            "Frânare Automată (PCS)",
+            "Lane Trace Assist",
+            "Recunoaștere indicatoare",
+            "Camera marșarier",
+            "7 Airbag-uri",
+            "Cruise Control Adaptiv"
+          ]
+        }
+      },
+      {
+        "id": "vw-golf-8",
+        "name": "Volkswagen Golf 8",
+        "cost": 65,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/5b/5bd5091f-7cfe-4a40-9c83-bae9efde3546?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/b5/b54cfe54-7645-442a-9fa1-3d87f6b38736?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/83/83805fdb-adce-48e3-a463-b5496008c02c?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/f2/f29bd19b-67be-4320-972d-b8e08c4950f5?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/d3/d3425730-2794-4d0a-8c8c-f4cc0d5ed099?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/d7/d78852e9-0689-430f-9de3-bcc479b63588?rule=mo-1600"
+        ],
+        "description": "Volkswagen Golf 8 setează din nou standardele în clasa compactă, oferind o experiență complet digitalizată. Innovision Cockpit elimină butoanele fizice în favoarea unor suprafețe tactile intuitive și a comenzilor vocale avansate.",
+        "specs": {
+          "Transmission": "Automată DSG 7 trepte",
+          "Fuel": "Benzină",
+          "Year": "2023",
+          "Engine": "1.5 TSI EVO",
+          "Power": "150 CP"
+        },
+        "features": {
+          "audio": [
+            "Navigație Discover Pro",
+            "Digital Cockpit 10 inch",
+            "Încărcare Wireless Telefon",
+            "We Connect Plus",
+            "Internet la bord",
+            "Control prin gesturi"
+          ],
+          "comfort": [
+            "Iluminare ambientală 30 culori",
+            "Scaune ErgoActive",
+            "Climatronic 3 zone (Air Care)",
+            "Volan încălzit",
+            "Oglinzi rabatabile electric",
+            "Start-Stop"
+          ],
+          "safety": [
+            "Travel Assist",
+            "Emergency Assist",
+            "Side Assist",
+            "Park Assist",
+            "Faruri LED Matrix IQ.LIGHT",
+            "Detectare oboseală",
+            "Apel de urgență"
+          ]
+        }
+      },
+      {
+        "id": "ford-focus",
+        "name": "Ford Focus",
+        "cost": 58,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/8c/8c1019e6-d094-4046-8974-06f0d166040b?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/0f/0f64c12d-9ffb-47f4-a3ce-d2eedea8d9f0?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/e2/e2c45fa6-2e01-4c69-b2d2-1f8d5efe7065?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/3b/3b53bd11-575f-468f-814c-ea4817a7a83f?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/57/57f5723a-0ba6-4f99-8693-f435c2154015?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/cb/cb69d223-5c01-4a32-8e88-145289d35858?rule=mo-1600"
+        ],
+        "description": "Ford Focus este recunoscut unanim pentru cel mai bun șasiu din clasa sa. Dacă îți place să conduci, aceasta este alegerea potrivită. Direcția precisă și suspensia independentă spate oferă o agilitate remarcabilă pe viraje.",
+        "specs": {
+          "Transmission": "Manuală 6 trepte",
+          "Fuel": "Diesel",
+          "Year": "2021",
+          "Engine": "1.5 EcoBlue",
+          "Power": "120 CP"
+        },
+        "features": {
+          "audio": [
+            "Sistem SYNC 3",
+            "Touchscreen 8 inch",
+            "Apple CarPlay / Android Auto",
+            "6 Difuzoare",
+            "Comenzi Audio Volan",
+            "Radio DAB"
+          ],
+          "comfort": [
+            "Pachet Iarnă (Parbriz Încălzit)",
+            "Scaune încălzite",
+            "Aer Condiționat",
+            "Geamuri electrice One-Touch",
+            "Cotieră centrală",
+            "Frână de mână electrică"
+          ],
+          "safety": [
+            "ESP & ABS",
+            "Asistență plecare rampă",
+            "Limitator viteză",
+            "Senzori presiune pneuri",
+            "Asistență pre-coliziune",
+            "Senzori parcare față/spate"
+          ]
+        }
+      },
+      {
+        "id": "ford-fiesta",
+        "name": "Ford Fiesta",
+        "cost": 40,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/91/9166fe18-8ccc-4ec0-9a5c-19c57ad10243?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/84/843b5bcb-6cc4-493d-a6b8-83215f34c536?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/34/3486a821-f6f3-4df5-9982-889b6897d074?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/90/90b6e0e9-aebf-40ab-a1d0-ac1004811540?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/5c/5c274fe0-8dd1-4fb3-b9af-34000795f4b7?rule=mo-1600"
+        ],
+        "description": "Ford Fiesta dovedește că lucrurile bune vin în pachete mici. Este campioana agilității urbane, transformând fiecare giratoriu într-o mică distracție. Motorul EcoBoost, multiplu premiat internațional, oferă o vivacitate surprinzătoare.",
+        "specs": {
+          "Transmission": "Manuală 5 trepte",
+          "Fuel": "Benzină",
+          "Year": "2020",
+          "Engine": "1.0 EcoBoost Turbo",
+          "Power": "100 CP"
+        },
+        "features": {
+          "audio": [
+            "Radio Bluetooth",
+            "Port USB",
+            "Sistem Ford Audio"
+          ],
+          "comfort": [
+            "Aer condiționat manual",
+            "Geamuri electrice față",
+            "Computer de bord",
+            "Volan reglabil",
+            "Scaun șofer reglabil pe înălțime"
+          ],
+          "safety": [
+            "ABS + EBD",
+            "ESP",
+            "Airbag-uri frontale și laterale",
+            "Sistem monitorizare presiune pneuri",
+            "Asistență frânare de urgență"
+          ]
+        }
+      },
+      {
+        "id": "dacia-logan",
+        "name": "Dacia Logan",
+        "cost": 35,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/f7/f71f485d-f026-4a73-86b4-7ead3bdeb28a?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/76/76b35740-6125-4c02-90c5-8dde4a9957f0?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/67/6728307c-ab12-44ce-b2ec-c90b9d47d26e?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/55/55623896-9039-412f-8653-a8b346eabf13?rule=mo-1600"
+        ],
+        "description": "Noua generație Dacia Logan a făcut un salt imens în materie de design și calitate. Construită pe o platformă modernă, oferă o siguranță sporită și o ținută de drum mult mai rafinată. Atuul principal rămâne spațiul.",
+        "specs": {
+          "Transmission": "Manuală 6 trepte",
+          "Fuel": "Benzină + GPL",
+          "Year": "2023",
+          "Engine": "1.0 TCe ECO-G",
+          "Power": "100 CP"
+        },
+        "features": {
+          "audio": [
+            "Media Display 8 inch",
+            "Suport telefon integrat",
+            "Bluetooth",
+            "Radio DAB",
+            "Replicare Smartphone cablu"
+          ],
+          "comfort": [
+            "Aer condiționat",
+            "Geamuri electrice față/spate",
+            "Cotieră șofer",
+            "Faruri automate",
+            "Volan reglabil",
+            "Închidere centralizată"
+          ],
+          "safety": [
+            "Faruri LED (Fază scurtă)",
+            "Frânare activă de urgență",
+            "6 Airbag-uri",
+            "Senzori parcare spate",
+            "Apel urgență SOS",
+            "ESP"
+          ]
+        }
+      },
+      {
+        "id": "audi-a4",
+        "name": "Audi A4",
+        "cost": 85,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/e4/e4542d20-8352-433e-82c3-268cf68988a6?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/32/32b264e5-1ac6-48ad-9519-e6ccabccc82c?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/2c/2c0fee08-2890-4b42-ad5b-67bdc75e2d70?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/1a/1a26b487-ebbf-4842-b504-5665a7ac0ba5?rule=mo-1600"
+        ],
+        "description": "Audi A4 este definiția berlinei premium moderne. Designul exterior sobru și elegant ascunde o tehnologie de ultimă oră și o calitate a fabricației ireproșabilă. La drum întins, este o oază de liniște și stabilitate.",
+        "specs": {
+          "Transmission": "Automată S-Tronic 7 trepte",
+          "Fuel": "Diesel",
+          "Year": "2021",
+          "Engine": "2.0 TDI",
+          "Power": "190 CP"
+        },
+        "features": {
+          "audio": [
+            "MMI Navigation Plus",
+            "Audi Sound System",
+            "Audi Smartphone Interface",
+            "2x USB",
+            "Bluetooth"
+          ],
+          "comfort": [
+            "Audi Drive Select",
+            "Climatronic 3 zone",
+            "Scaune Sport",
+            "Volan piele multifuncțional",
+            "Oglinzi heliomate",
+            "Portbagaj electric"
+          ],
+          "safety": [
+            "Audi Pre Sense City",
+            "Senzori parcare față/spate",
+            "Pilot Automat",
+            "Limitator viteză",
+            "Detectare oboseală",
+            "Capotă activă"
+          ]
+        }
+      },
+      {
+        "id": "hyundai-i30",
+        "name": "Hyundai i30",
+        "cost": 50,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/0e/0e0d58c6-308a-4b19-93df-c9544fd69713?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/91/91e6a538-301b-45ba-b3a0-76fc6bf99a9a?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/7e/7e240f05-a6a5-465e-a263-887aa45549d5?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/a8/a8a5f839-fbc6-40e9-af94-c9f4d43fa40e?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/8d/8dbb899a-9a89-40c3-9858-a01f6943405f?rule=mo-1600"
+        ],
+        "description": "Proiectat, dezvoltat și fabricat în Europa, Hyundai i30 este răspunsul coreean la Golf, oferind o valoare incredibilă pentru preț. Motorul 1.5 T-GDi este vioi și rafinat, iar cutia automată cu dublu ambreiaj schimbă rapid.",
+        "specs": {
+          "Transmission": "Automată 7-DCT",
+          "Fuel": "Benzină",
+          "Year": "2022",
+          "Engine": "1.5 T-GDi Mild-Hybrid",
+          "Power": "160 CP"
+        },
+        "features": {
+          "audio": [
+            "Touchscreen 10.25 inch",
+            "Apple CarPlay / Android Auto",
+            "Bluetooth Multi-Connection",
+            "Încărcare Wireless"
+          ],
+          "comfort": [
+            "Scaune față încălzite",
+            "Volan încălzit",
+            "Climatronic 2 zone",
+            "Camera video spate",
+            "Keyless Entry/Start",
+            "Oglinzi pliabile electric"
+          ],
+          "safety": [
+            "Lane Keeping Assist (LKA)",
+            "High Beam Assist",
+            "Driver Attention Warning",
+            "Forward Collision Avoidance",
+            "E-Call"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "category": "Luxury & Executive",
+    "cars": [
+      {
+        "id": "mercedes-s-class",
+        "name": "Mercedes-Benz S-Class",
+        "cost": 230,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/72/7274d6b8-607f-44e9-a9eb-9d94035f99ba?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/05/055c4a74-d0ef-4f5c-bcb1-90ef16d11f44?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/c5/c594648c-23c8-4be6-b3ce-43cac491ca36?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/b8/b81b7990-b9f4-473a-98b8-64058ecbbd06?rule=mo-1600"
+        ],
+        "description": "Mercedes-Benz S-Class nu este doar un automobil, ci o instituție a luxului global. Este mașina care anticipează nevoile pasagerilor înainte ca aceștia să le conștientizeze. Suspensia pneumatică scanează drumul cu camere video pentru a anula gropile.",
+        "specs": {
+          "Transmission": "Automată 9G-Tronic",
+          "Fuel": "Diesel",
+          "Year": "2023",
+          "Engine": "3.0L L6 (S 400 d)",
+          "Power": "330 CP"
+        },
+        "features": {
+          "audio": [
+            "Burmester High-End 4D Surround",
+            "MBUX Augmented Reality",
+            "Tablete Divertisment Spate",
+            "Căști Wireless",
+            "Integrare Smartphone"
+          ],
+          "comfort": [
+            "Pachet Chauffeur",
+            "Scaune Executive (înclinare 43°)",
+            "Masaj Hot Stone",
+            "Suspensie AIRMATIC",
+            "Magic Vision Control",
+            "Soft Close"
+          ],
+          "safety": [
+            "DIGITAL LIGHT (proiecții pe asfalt)",
+            "Airbag-uri centură",
+            "Night Vision Assist",
+            "Parcare Automată",
+            "Direcție Punte Spate",
+            "Pre-Safe Impulse"
+          ]
+        }
+      },
+      {
+        "id": "bmw-7-series",
+        "name": "BMW Seria 7",
+        "cost": 190,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/3b/3b67692b-2786-40a3-b9e7-03730943dcef?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/a9/a9d28f7f-b1cd-4fff-81ba-9811c845c6c4?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/98/98e4cbc2-4c8f-4cde-ab49-f8369e955ace?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/8d/8dc90cfc-d720-4e23-ab6a-c62985b6564b?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/f2/f21487a3-47b4-42a4-8900-0adb39d22491?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/aa/aad81d14-bf86-4992-9705-04e6ebf549f8?rule=mo-1600"
+        ],
+        "description": "BMW Seria 7 reușește imposibilul: să fie o limuzină ultra-luxoasă pentru pasageri și, în același timp, o mașină sportivă pentru șofer. Șasiul Carbon Core reduce greutatea și crește rigiditatea, oferind o dinamică de invidiat.",
+        "specs": {
+          "Transmission": "Automată Steptronic 8 trepte",
+          "Fuel": "Benzină",
+          "Year": "2023",
+          "Engine": "3.0L Turbo L6",
+          "Power": "340 CP"
+        },
+        "features": {
+          "audio": [
+            "Harman Kardon Surround",
+            "BMW Gesture Control",
+            "Apple CarPlay Wireless",
+            "Wi-Fi Hotspot"
+          ],
+          "comfort": [
+            "BMW Display Key",
+            "Scaune Comfort Ventilate",
+            "Perdeluțe electrice",
+            "Parfum ambiental",
+            "Soft Close",
+            "Head-Up Display"
+          ],
+          "safety": [
+            "Laserlight (600m)",
+            "Driving Assistant Professional",
+            "Reversing Assistant",
+            "Camere 360 3D",
+            "BMW Drive Recorder"
+          ]
+        }
+      },
+      {
+        "id": "rolls-royce-phantom",
+        "name": "Rolls-Royce Phantom",
+        "cost": 1200,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/54/54421a3a-7429-4648-bb6b-ff60676f043c?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/a5/a5204762-5bbc-4d0d-95aa-dc4bd676a73a?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/c1/c10501e5-313a-4f26-bec0-cef069c943ec?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/ff/ffd71cc5-23e2-49e5-86ee-fa51be730343?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/f8/f8455e6b-6ec9-4da5-b45b-c0fbfc3f7eb8?rule=mo-1600"
+        ],
+        "description": "Phantom este mai mult decât o mașină; este o declarație de putere absolută și rafinament fără egal. Construită pe o platformă unică din aluminiu, numită 'Arhitectura Luxului', oferă celebra senzație de 'Magic Carpet Ride'.",
+        "specs": {
+          "Transmission": "Automată ZF 8 trepte",
+          "Fuel": "Benzină",
+          "Year": "2023",
+          "Engine": "6.75L V12 Twin-Turbo",
+          "Power": "571 CP"
+        },
+        "features": {
+          "audio": [
+            "Rolls-Royce Bespoke Audio",
+            "Televizoare Spate",
+            "Mese Picnic Electrice",
+            "Căști High-Fidelity"
+          ],
+          "comfort": [
+            "Plafon Înstelat (Starlight Headliner)",
+            "Frigider Șampanie + Pahare Cristal",
+            "Uși automate",
+            "Covorașe lână miel",
+            "Umbrele în uși",
+            "Privacy Glass"
+          ],
+          "safety": [
+            "Night Vision cu detecție pietoni",
+            "Sistem camere perimetrale",
+            "Head-Up Display Panoramic",
+            "Cruise Control Activ",
+            "Alertă Trafic"
+          ]
+        }
+      },
+      {
+        "id": "audi-s8",
+        "name": "Audi S8",
+        "cost": 250,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/36/36dbb2b5-e708-46db-8c5b-989ec552b66c?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/77/775a6267-5756-4c4b-8071-15c9071e1d6b?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/46/460208f1-4634-4910-9eac-d8f1c99fbaa5?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/dd/ddaded02-b3fb-47ef-b04c-b733d13b82b2?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/31/31121cb8-54dc-4078-a510-447f523a8508?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/ea/ea5db0ad-5f18-40ad-a5ab-8458c9ce3c9c?rule=mo-1600"
+        ],
+        "description": "Audi S8 este lupul în blană de oaie. Sub caroseria elegantă de limuzină business se ascunde inima unui supercar: un V8 biturbo exploziv. Elementul magic este suspensia activă predictivă, care poate ridica sau coborî fiecare roată independent în milisecunde.",
+        "specs": {
+          "Transmission": "Automată Tiptronic 8 trepte",
+          "Fuel": "Benzină",
+          "Year": "2022",
+          "Engine": "4.0 TFSI V8 Biturbo",
+          "Power": "571 CP"
+        },
+        "features": {
+          "audio": [
+            "Bang & Olufsen 3D Advanced",
+            "Active Noise Cancellation",
+            "MMI Touch Response"
+          ],
+          "comfort": [
+            "Suspensie Activă Predictivă",
+            "Scaune Sport Contur",
+            "Ventilație și Masaj",
+            "Pachet Piele Valcona",
+            "Geamuri duble acustice"
+          ],
+          "safety": [
+            "Frâne Ceramice",
+            "HD Matrix LED Laser",
+            "Night Vision",
+            "City Assist",
+            "Camere 360",
+            "Direcție integrală (virează și spatele)"
+          ]
+        }
+      },
+      {
+        "id": "vw-phaeton",
+        "name": "VW Phaeton",
+        "cost": 100,
+        "images": [
+          "https://www.netcarshow.com/Volkswagen-Phaeton_D2_Concept-2016-1280-4feed6ce12c23073c5818e3a00ed4834c3.jpg",
+          "https://www.netcarshow.com/Volkswagen-Phaeton_D2_Concept-2016-1280-0433c6327c7fae07611d2120101567af93.jpg",
+          "https://www.netcarshow.com/Volkswagen-Phaeton_D2_Concept-2016-1280-2b8dd56c3a4fdde44df5afd7b0e17d2b5a.jpg?token=632b01081414b8449c058fe0fc25b967d8b6b19633562417d56287b"
+        ],
+        "description": "VW Phaeton nu este un simplu Volkswagen, ci un proiect ambițios de inginerie care a împărțit platforma cu Bentley Continental. Construit manual în 'Fabrica de Sticlă' din Dresda, Phaeton oferă un sistem de climatizare unic în lume.",
+        "specs": {
+          "Transmission": "Automată 6 trepte",
+          "Fuel": "Diesel",
+          "Year": "2016",
+          "Engine": "3.0 V6 TDI",
+          "Power": "245 CP"
+        },
+        "features": {
+          "audio": [
+            "Dynaudio Confidence (1000W)",
+            "CD/DVD Changer",
+            "Bluetooth"
+          ],
+          "comfort": [
+            "Suspensie Pneumatică",
+            "Scaune cu climatizare și masaj",
+            "Climatronic 4 zone",
+            "Portbagaj electric",
+            "Soft Close"
+          ],
+          "safety": [
+            "ACC (Adaptive Cruise Control)",
+            "Side Assist",
+            "Front Assist",
+            "Faruri Bi-Xenon Adaptiv",
+            "9 Airbag-uri"
+          ]
+        }
+      },
+      {
+        "id": "bentley-flying-spur",
+        "name": "Bentley Flying Spur",
+        "cost": 500,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/30/30774bda-eabd-4ad6-a224-4f01f973c12a?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/36/36c4d037-d53b-46d7-8a76-72d79af745de?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/db/db9e5c05-875c-45ce-877c-84c6e7bd3ce3?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/27/275b1741-501b-4276-a378-9ebf1c73fd00?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/a8/a870ca6a-98c9-4343-a7a6-a38fe48ad2f5?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/b8/b877e766-3792-4490-a986-d66f5b05b9a2?rule=mo-1600"
+        ],
+        "description": "Bentley Flying Spur este cel mai rapid și luxos sedan sport din lume. Îmbină măiestria artizanală britanică cu forța brută a unui motor W12. Interiorul este o simfonie de piele texturată 3D, furnir din lemn rar și butoane metalice cu striații diamantate.",
+        "specs": {
+          "Transmission": "Automată 8 trepte (Dual Clutch)",
+          "Fuel": "Benzină",
+          "Year": "2022",
+          "Engine": "6.0L W12 Twin-Turbo",
+          "Power": "635 CP"
+        },
+        "features": {
+          "audio": [
+            "Naim for Bentley (2200W)",
+            "Bentley Rotating Display",
+            "Tablete Spate Detașabile"
+          ],
+          "comfort": [
+            "Scaune Masaj Pietre Calde",
+            "Mese picnic electrice",
+            "Ceas Breitling",
+            "Piele Mulliner",
+            "Suspensie Active Ride"
+          ],
+          "safety": [
+            "Night Vision",
+            "Head-Up Display",
+            "Top View Camera",
+            "Traffic Sign Recognition",
+            "City & Touring Specification"
+          ]
+        }
+      },
+      {
+        "id": "lexus-ls",
+        "name": "Lexus LS",
+        "cost": 180,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/85/8554fa3f-ce28-47aa-818f-a40839780fea?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/af/af56158b-12ee-4005-a61b-d35adfbfa4f3?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/21/218c3a07-1543-4aa8-a55d-4cec60fbfc69?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/e9/e97f54b6-dc89-455d-b5f4-67b11e833f2e?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/f6/f6227a92-a1a4-4f17-9a0d-e72ae3d3da9d?rule=mo-1600"
+        ],
+        "description": "Lexus LS este expresia supremă a ospitalității japoneze, conceptul 'Omotenashi'. Designul interior este inspirat din arta tradițională, folosind sticlă Kiriko tăiată manual și materiale plisate origami. Sistemul hibrid Multi-Stage oferă o rulare lină și silențioasă.",
+        "specs": {
+          "Transmission": "Automată Multi-Stage (10 trepte simulate)",
+          "Fuel": "Hibrid",
+          "Year": "2022",
+          "Engine": "3.5L V6 Hybrid",
+          "Power": "359 CP"
+        },
+        "features": {
+          "audio": [
+            "Mark Levinson Reference 3D (23 difuzoare)",
+            "Active Noise Control",
+            "DVD Spate"
+          ],
+          "comfort": [
+            "Scaune Ottoman Spate (înclinare 48°)",
+            "Masaj Shiatsu",
+            "Suspensie Adaptivă AVS",
+            "Climă cu senzori infraroșu",
+            "Perdeluțe electrice"
+          ],
+          "safety": [
+            "Lexus Safety System+ A",
+            "Faruri BladeScan AHS",
+            "Alertă trafic transversal",
+            "Detectare pietoni",
+            "Asistență activă direcție"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "category": "Supercars & Sport",
+    "cars": [
+      {
+        "id": "chevrolet-corvette-zr1",
+        "name": "Chevrolet Corvette ZR1",
+        "cost": 400,
+        "images": [
+          "https://www.netcarshow.com/Chevrolet-Corvette_ZR1-2025-1280-b2f818c5240c9474eb7cdd3f808c2ec1c3.jpg",
+          "https://www.netcarshow.com/Chevrolet-Corvette_ZR1-2025-1280-8f3ed9cf3eb37defc6957b8740686f69d9.jpg",
+          "https://www.netcarshow.com/Chevrolet-Corvette_ZR1-2025-1280-9ec522765afd0be0d114d82070a85f7134.jpg",
+          "https://www.netcarshow.com/Chevrolet-Corvette_ZR1-2025-1280-06bfd6ec645a3d0756c34caa10f4443f2b.jpg?token=77f3e1541414b8449b058fe0fc2f44e4ea62d241d9d5328f854a853"
+        ],
+        "description": "Corvette ZR1 este apogeul performanței americane, o bestie mecanică ce sfidează supercar-urile europene de trei ori mai scumpe. Motorul V8 Supercharged produce un sunet asurzitor și o putere brută care te lipește de scaun.",
+        "specs": {
+          "Transmission": "Automată 8 trepte",
+          "Fuel": "Benzină",
+          "Year": "2020",
+          "Engine": "6.2L V8 Supercharged (LT5)",
+          "Power": "755 CP"
+        },
+        "features": {
+          "audio": [
+            "Bose Performance Series",
+            "Performance Data Recorder",
+            "Apple CarPlay"
+          ],
+          "comfort": [
+            "Scaune Sport Competition",
+            "Plafon Targa demontabil",
+            "Volan Alcantara",
+            "Climatizare duală"
+          ],
+          "safety": [
+            "Track Mode",
+            "Frâne Ceramice Brembo Carbon",
+            "Magnetic Ride Control",
+            "Head-Up Display",
+            "Launch Control"
+          ]
+        }
+      },
+      {
+        "id": "ferrari-f8",
+        "name": "Ferrari F8 Tributo",
+        "cost": 900,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/37/371cc7f3-9577-485e-83e5-a6af2efe90c3?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/c4/c4c6dde9-2331-4a54-96f8-03abd4f66077?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/1f/1f1d9752-e0a2-4582-9f36-f399661ce7d2?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/2b/2b2c76f3-2161-415c-b4ef-44e1beb6d3f1?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/69/695b3086-3c67-46f8-9d34-3164fc691d86?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/71/71d213cf-3414-4ab2-9306-d495004480b1?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/ef/ef6d3469-a602-4c9f-990a-db3992e70d7d?rule=mo-1600"
+        ],
+        "description": "F8 Tributo este un omagiu adus celui mai premiat motor V8 din istoria Ferrari. Este o sculptură aerodinamică perfectă, desenată de vânt și pasiune italiană. Răspunsul la accelerație este instantaneu, fără 'turbo lag', iar șasiul echilibrat permite o manevrabilitate chirurgicală.",
+        "specs": {
+          "Transmission": "F1 Dual-Clutch 7 trepte",
+          "Fuel": "Benzină",
+          "Year": "2022",
+          "Engine": "3.9L V8 Twin-Turbo",
+          "Power": "720 CP"
+        },
+        "features": {
+          "audio": [
+            "JBL Premium Sound",
+            "Passenger Display (Ecran Pasager)",
+            "Bluetooth Streaming"
+          ],
+          "comfort": [
+            "Scaune Carbon Racing",
+            "Interior Piele/Alcantara",
+            "Lift System (ridicare bot)",
+            "Climă automată"
+          ],
+          "safety": [
+            "F1-Trac (Control Tracțiune)",
+            "Frâne Carbon Ceramic",
+            "E-Diff 3",
+            "Side Slip Control 6.1",
+            "Faruri LED Adaptive"
+          ]
+        }
+      },
+      {
+        "id": "lamborghini-revuelto",
+        "name": "Lamborghini Revuelto",
+        "cost": 1500,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/b2/b25d3559-b5f8-42df-9669-b939f1f80860?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/10/10fef21e-eb43-4381-b33d-00c04b130ddb?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/13/13c2ebca-0d5d-4ddc-8a60-0f0893b787ec?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/ac/acf3d0f7-bec5-41b9-b104-c8e06e515bce?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/d2/d269925e-8a41-456a-8afe-418a8d2b9e4a?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/05/0518ddb9-fe56-4587-945a-66f611da252f?rule=mo-1600"
+        ],
+        "description": "Bun venit în viitor. Revuelto este primul HPEV (High Performance Electrified Vehicle) de la Lamborghini, înlocuitorul legendarului Aventador. Combină un motor V12 aspirat care urlă până la 9500 RPM cu trei motoare electrice, pentru o putere totală devastatoare de 1015 CP.",
+        "specs": {
+          "Transmission": "Automată 8 trepte (dublu ambreiaj transversal)",
+          "Fuel": "Hibrid (V12 + 3 Motoare Electrice)",
+          "Year": "2024",
+          "Engine": "6.5L V12 Aspirat",
+          "Power": "1015 CP"
+        },
+        "features": {
+          "audio": [
+            "Sistem Audio Sensonum",
+            "Interfață HMI cu 3 ecrane",
+            "Amazon Alexa",
+            "Smartphone Interface"
+          ],
+          "comfort": [
+            "Telemetry System",
+            "Lift System",
+            "Scaune Sport Electrice",
+            "Volan Multifuncțional Corsa"
+          ],
+          "safety": [
+            "Monococă Carbon",
+            "Aerodinamică Activă",
+            "Frâne Carbon Ceramic CCB Plus",
+            "ADAS Complet"
+          ]
+        }
+      },
+      {
+        "id": "porsche-gt3rs",
+        "name": "Porsche 911 GT3 RS",
+        "cost": 800,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/f4/f4337b10-e423-4819-ace4-3e866eef9faa?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/07/07bb9655-ae6a-408e-9ee7-aabbc77918e4?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/91/91413ace-7e53-4ab1-8ca6-67eac276fcea?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/29/29122c60-2b4a-400f-99ee-b9eebccf86ee?rule=mo-1600"
+        ],
+        "description": "O mașină de curse cu numere de înmatriculare. GT3 RS nu este despre lux, ci despre timpi pe circuit. Eleronul spate imens dispune de sistem DRS (ca în Formula 1), iar numeroasele elemente aerodinamice generează o apăsare la sol dublă față de generația anterioară.",
+        "specs": {
+          "Transmission": "PDK 7 trepte (rapoarte scurte)",
+          "Fuel": "Benzină",
+          "Year": "2023",
+          "Engine": "4.0L Boxer Aspirat",
+          "Power": "525 CP"
+        },
+        "features": {
+          "audio": [
+            "Sound Package Plus",
+            "Porsche Track Precision App"
+          ],
+          "comfort": [
+            "Roll Cage Carbon",
+            "Scaune Scoică Carbon",
+            "Centuri în 6 puncte",
+            "Extinctor",
+            "Volan Race-Tex"
+          ],
+          "safety": [
+            "DRS (Drag Reduction System)",
+            "PASM (Suspensie Activă)",
+            "PTV Plus (Torque Vectoring)",
+            "Frâne PCCB"
+          ]
+        }
+      },
+      {
+        "id": "mclaren-720s",
+        "name": "McLaren 720S",
+        "cost": 850,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/5f/5f92ec69-7350-41de-a260-7ffc47e96550?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/ec/eccce617-f601-4d82-8aa6-477edda51c75?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/3b/3b93e60f-ae41-45bf-8657-b9060d75f1cf?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/81/8138d7ec-634c-482a-b450-a5fc19a6fd20?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/8e/8e10a48c-c5fb-46ad-9cd0-8e77b961ca1a?rule=mo-1600"
+        ],
+        "description": "Extraterestrul britanic. McLaren 720S a redefinit segmentul supercar-urilor prin performanța sa incredibilă și designul inspirat de rechinul alb. Șasiul Monocage II din carbon o face extrem de ușoară și rigidă.",
+        "specs": {
+          "Transmission": "Automată SSG 7 trepte",
+          "Fuel": "Benzină",
+          "Year": "2022",
+          "Engine": "4.0L V8 Twin-Turbo",
+          "Power": "720 CP"
+        },
+        "features": {
+          "audio": [
+            "Bowers & Wilkins 12 Speaker",
+            "McLaren Telemetry",
+            "Portrait Screen"
+          ],
+          "comfort": [
+            "Uși Dihedral (Fluture)",
+            "Variable Drift Control",
+            "Folding Driver Display",
+            "Lift System"
+          ],
+          "safety": [
+            "Monococă Carbon",
+            "Airbrake Activ (Eleron)",
+            "Frâne Carbon Ceramic",
+            "Control Tracțiune Reglabil"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "category": "SUV & Family",
+    "cars": [
+      {
+        "id": "range-rover-sport",
+        "name": "Range Rover Sport",
+        "cost": 150,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/3c/3c1cb9b1-bc78-4406-bb10-a2cc9281539d?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/c3/c3dd003a-db43-41e9-999f-6cc0be89e44d?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/f0/f0e4345b-68b6-4962-a0d5-5259c38da4fc?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/bd/bd2b504b-fb92-451c-8e38-80169fd5d500?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/e4/e4e0b694-fc7b-49f1-a1ac-70b631164a1d?rule=mo-1600"
+        ],
+        "description": "Definiția SUV-ului sportiv de lux. Range Rover Sport domină șoseaua printr-o poziție de condus înaltă ('Command Driving Position') și un design musculos. Este la fel de capabil pe autostradă, la viteze mari, cât și în noroi sau zăpadă adâncă, grație sistemului Terrain Response.",
+        "specs": {
+          "Transmission": "Automată ZF 8 trepte",
+          "Fuel": "Diesel",
+          "Year": "2022",
+          "Engine": "3.0L Ingenium L6",
+          "Power": "300 CP"
+        },
+        "features": {
+          "audio": [
+            "Meridian Surround Sound",
+            "Pivi Pro Infotainment",
+            "Android Auto / Apple CarPlay"
+          ],
+          "comfort": [
+            "Suspensie Pneumatică",
+            "Scaune Încălzite/Ventilate",
+            "Terrain Response 2",
+            "Parbriz Încălzit"
+          ],
+          "safety": [
+            "Wade Sensing (Senzor adâncime apă)",
+            "ClearSight Rear Mirror",
+            "Blind Spot Assist",
+            "360 Cameras",
+            "HDC"
+          ]
+        }
+      },
+      {
+        "id": "volvo-xc90",
+        "name": "Volvo XC90",
+        "cost": 130,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/8a/8a1211c3-0f71-46d8-b9db-7ad61a8caef1?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/da/da424426-1f0d-44f7-989a-b57dc6310b70?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/22/227057c8-36f6-492c-81c2-9c35231eca69?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/4d/4dee672c-8dc5-43a4-a84a-dc611b2fad4c?rule=mo-1600"
+        ],
+        "description": "Siguranță și stil scandinav. Volvo XC90 este sanctuarul familiei moderne, oferind 7 locuri reale și un interior luminos, inspirat din designul de mobilier nordic. Sistemul hibrid T8 oferă o putere impresionantă și posibilitatea de a rula electric în oraș.",
+        "specs": {
+          "Transmission": "Automată 8 trepte",
+          "Fuel": "Plug-in Hybrid",
+          "Year": "2023",
+          "Engine": "2.0L T8 Recharge",
+          "Power": "455 CP"
+        },
+        "features": {
+          "audio": [
+            "Bowers & Wilkins Concert Hall",
+            "Google Automotive Services",
+            "Subwoofer Air-Ventilated"
+          ],
+          "comfort": [
+            "Schimbător Cristal Orrefors",
+            "Purificator Aer PM2.5",
+            "Scaune Masaj",
+            "Plafon Panoramic",
+            "Scaun copil integrat"
+          ],
+          "safety": [
+            "City Safety (frânare automată)",
+            "Pilot Assist",
+            "Run-off Road Protection",
+            "Cross Traffic Alert",
+            "Cage Boron Steel"
+          ]
+        }
+      },
+      {
+        "id": "maybach-gls",
+        "name": "Mercedes-Maybach GLS",
+        "cost": 600,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/cc/cc0f65af-7256-45d8-a4ef-dc1e2edc9bce?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/68/68df55ee-8eb1-484c-a821-1a3ca81c7b90?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/af/af17fe0c-ad1b-48ef-bbd3-fe89421ff1e8?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/6d/6d58c9fe-4333-477f-83dd-56461a7c69c8?rule=mo-1600"
+        ],
+        "description": "Palatul pe roți. Mercedes-Maybach GLS ridică ștacheta luxului la nivel de SUV. Grila cromată și vopseaua în două tonuri anunță exclusivitatea. Pasagerii din spate sunt tratați regește, având la dispoziție fotolii extensibile, frigider pentru șampanie și o izolare fonică perfectă.",
+        "specs": {
+          "Transmission": "Automată 9G-Tronic",
+          "Fuel": "Benzină",
+          "Year": "2023",
+          "Engine": "4.0L V8 Biturbo",
+          "Power": "558 CP"
+        },
+        "features": {
+          "audio": [
+            "Burmester High-End 3D",
+            "Tablete Spate MBUX",
+            "Intercom Șofer-Pasager"
+          ],
+          "comfort": [
+            "Scaune First Class",
+            "Frigider",
+            "Suport Pahare Încălzit/Răcit",
+            "Praguri Electrice Retractabile",
+            "Parfum Maybach"
+          ],
+          "safety": [
+            "E-Active Body Control",
+            "Pre-Safe Sound",
+            "Driving Assistance Plus",
+            "Airbag-uri pernă scaun"
+          ]
+        }
+      },
+      {
+        "id": "hyundai-tucson",
+        "name": "Hyundai Tucson",
+        "cost": 70,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/33/33386a6a-e2bd-455c-b13e-5e54f827d6ff?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/e2/e2d46f9d-571d-4adb-adf1-1772c28dd555?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/3b/3b2e5447-3d6f-4967-b24a-d6e1fc045a28?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/33/33eac711-c0e4-4b97-883a-c2f565ced068?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/a1/a170150d-3942-457d-8c24-4d0a2643a967?rule=mo-1600"
+        ],
+        "description": "Design futurist și tehnologie de top. Hyundai Tucson a revoluționat segmentul prin luminile de zi 'Parametric Hidden Lights' care sunt invizibile când sunt stinse. Interiorul este aerisit și modern, fără butoane fizice inutile.",
+        "specs": {
+          "Transmission": "Automată 6 trepte",
+          "Fuel": "Full Hybrid",
+          "Year": "2023",
+          "Engine": "1.6 T-GDi HEV",
+          "Power": "230 CP"
+        },
+        "features": {
+          "audio": [
+            "Sistem Audio Krell",
+            "BlueLink App",
+            "Încărcare Wireless",
+            "Navigație 10.25 inch"
+          ],
+          "comfort": [
+            "Scaune Ventilate",
+            "Remote Smart Parking (parchează din cheie)",
+            "Mod Multi-Air (climă difuză)",
+            "Banchetă încălzită"
+          ],
+          "safety": [
+            "Blind View Monitor (camere în bord)",
+            "Highway Driving Assist",
+            "Safe Exit Warning",
+            "Frânare automată intersecții"
+          ]
+        }
+      },
+      {
+        "id": "vw-touareg",
+        "name": "VW Touareg",
+        "cost": 140,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/38/38d75618-282c-4802-9daf-7ea63c54129b?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/bc/bc5fe510-42d2-4a7c-87dc-0f35781eaf59?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/bc/bc5fe510-42d2-4a7c-87dc-0f35781eaf59?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/e8/e8ba0146-c187-4c32-aef0-d8e4f4d2ad4f?rule=mo-1600"
+        ],
+        "description": "Nava amiral Volkswagen. Touareg împarte platforma tehnică cu Porsche Cayenne și Lamborghini Urus, oferind o tehnologie de top la un preț mai rațional. 'Innovision Cockpit', ecranul curbat imens, este piesa de rezistență a interiorului.",
+        "specs": {
+          "Transmission": "Automată 8 trepte",
+          "Fuel": "Diesel",
+          "Year": "2022",
+          "Engine": "3.0 V6 TDI",
+          "Power": "286 CP"
+        },
+        "features": {
+          "audio": [
+            "Dynaudio Consequence",
+            "App Connect Wireless",
+            "Innovision Cockpit 15 inch"
+          ],
+          "comfort": [
+            "Scaune ErgoComfort",
+            "Suspensie Pneumatică",
+            "Direcție Integrală (virează spatele)",
+            "Masaj"
+          ],
+          "safety": [
+            "Night Vision (termoviziune)",
+            "IQ.Light LED Matrix",
+            "Cross Traffic Assist",
+            "Proactive Occupant Protection"
+          ]
+        }
+      },
+      {
+        "id": "bmw-x5",
+        "name": "BMW X5",
+        "cost": 160,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/37/37fc9dea-e64c-4f7d-ad64-f543eef14b72?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/73/738c7c0a-ea4b-4bdf-bdf7-e8dfb78209d7?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/5e/5e0c65f6-0465-457a-939f-60c278541e46?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/c7/c76b1651-bc5e-47ae-9978-dc9b8a316143?rule=mo-1600"
+        ],
+        "description": "Regele clasei sale. BMW X5 a inventat conceptul de SAV (Sports Activity Vehicle) și continuă să fie referința. Oferă o dinamică de condus sportivă, tipică BMW, fără a sacrifica confortul familiei. Haionul divizat în două părți este extrem de practic.",
+        "specs": {
+          "Transmission": "Automată Steptronic Sport 8 trepte",
+          "Fuel": "Diesel",
+          "Year": "2023",
+          "Engine": "3.0d (xDrive30d)",
+          "Power": "286 CP"
+        },
+        "features": {
+          "audio": [
+            "Harman Kardon Surround",
+            "BMW Live Cockpit Pro",
+            "Control Gesturi"
+          ],
+          "comfort": [
+            "Scaune Comfort cu memorie",
+            "Pachet xOffroad",
+            "Cheie digitală",
+            "Suport pahare încălzit/răcit",
+            "Piele Vernasca"
+          ],
+          "safety": [
+            "Laserlight",
+            "Driving Assistant Professional",
+            "Reversing Assistant (merge singur cu spatele)",
+            "Camere 360"
+          ]
+        }
+      },
+      {
+        "id": "audi-q7",
+        "name": "Audi Q7",
+        "cost": 155,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/a6/a6b404e7-15b8-40d0-9da7-be4bc8e74a9d?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/b3/b386f814-4808-4965-8f63-6e75bdc0dfad?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/b3/b386f814-4808-4965-8f63-6e75bdc0dfad?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/b3/b386f814-4808-4965-8f63-6e75bdc0dfad?rule=mo-1600"
+        ],
+        "description": "Lounge-ul de familie. Audi Q7 impresionează prin spațiul interior generos pentru 7 pasageri și prin tehnologia avansată. Sistemul de tracțiune integrală Quattro asigură o aderență perfectă indiferent de vreme. Direcția integrală face ca acest SUV masiv să se simtă agil în oraș și stabil pe autostradă.",
+        "specs": {
+          "Transmission": "Automată Tiptronic 8 trepte",
+          "Fuel": "Diesel",
+          "Year": "2022",
+          "Engine": "3.0 TDI V6 (50 TDI)",
+          "Power": "286 CP"
+        },
+        "features": {
+          "audio": [
+            "Bose 3D Sound",
+            "Audi Virtual Cockpit",
+            "MMI Navigation Plus"
+          ],
+          "comfort": [
+            "Suspensie Pneumatică Adaptivă",
+            "Climatronic 4 Zone",
+            "Soft Close",
+            "Banchetă spate Plus",
+            "Portbagaj electric"
+          ],
+          "safety": [
+            "Tour Assist Package",
+            "City Assist",
+            "Side Assist",
+            "Exit Warning",
+            "Camere 360",
+            "Pre Sense Front/Rear"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "category": "Electric & Hybrid",
+    "cars": [
+      {
+        "id": "tesla-model-3",
+        "name": "Tesla Model 3",
+        "cost": 110,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/13/13d10ac3-9edd-484d-8f09-cd50440ee98c?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/d4/d4528a25-c929-4784-a53b-ee1a21976f09?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/d4/d4528a25-c929-4784-a53b-ee1a21976f09?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/a0/a030aac0-a8a6-4415-ae7f-bdf517e88613?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/0d/0d5983a5-7f09-456a-b530-101c6fe1c8ba?rule=mo-1600"
+        ],
+        "description": "Mașina care a accelerat tranziția electrică globală. Tesla Model 3 Long Range oferă o autonomie reală excelentă și acces la rețeaua Supercharger, eliminând anxietatea distanței. Interiorul ultra-minimalist este dominat de ecranul central de 15 inch, de unde se controlează totul.",
+        "specs": {
+          "Transmission": "Automată 1 treaptă",
+          "Fuel": "Electric",
+          "Year": "2022",
+          "Engine": "Dual Motor AWD",
+          "Power": "490 CP"
+        },
+        "features": {
+          "audio": [
+            "Premium Audio (13 difuzoare)",
+            "Spotify Integrat",
+            "Netflix/YouTube/Twitch"
+          ],
+          "comfort": [
+            "Plafon complet din sticlă",
+            "Precondiționare din Aplicație",
+            "Scaune încălzite (toate)",
+            "Volan încălzit",
+            "Pompa de căldură"
+          ],
+          "safety": [
+            "Autopilot (Basic)",
+            "Sentry Mode (Supraveghere video)",
+            "Dashcam integrat",
+            "Rating Siguranță 5 Stele",
+            "Frânare fantomă redusă"
+          ]
+        }
+      },
+      {
+        "id": "tesla-model-x",
+        "name": "Tesla Model X",
+        "cost": 200,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/91/91c95ac2-5271-45fa-80b1-f934d27a4315?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/5d/5d0cb250-9a09-4dca-9c31-119a78ecd53d?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/ed/ed9a1e93-777d-48d0-9d86-7f97b0120bac?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/b5/b5898cf3-13e0-4090-ae2f-e752f7bf00b6?rule=mo-1600"
+        ],
+        "description": "SUV-ul viitorului. Tesla Model X Plaid este o demonstrație de forță tehnologică. Ușile spate 'Falcon Wing' permit accesul ușor în locuri înguste și oferă un spectacol vizual garantat. Cu trei motoare electrice și peste 1000 CP, accelerează mai repede decât un monopost de Formula 1, având în același timp loc pentru 6 persoane și bagaje.",
+        "specs": {
+          "Transmission": "Automată",
+          "Fuel": "Electric",
+          "Year": "2022",
+          "Engine": "Tri-Motor (Plaid)",
+          "Power": "1020 CP"
+        },
+        "features": {
+          "audio": [
+            "Immersive Sound (22 difuzoare)",
+            "Computer Gaming (putere PS5)",
+            "Ecran Spate 8 inch"
+          ],
+          "comfort": [
+            "Uși Falcon Wings automate",
+            "Parbriz Panoramic Big Sky",
+            "6 Locuri (Captain Chairs)",
+            "Suspensie pneumatică"
+          ],
+          "safety": [
+            "FSD Computer (Full Self-Driving Capable)",
+            "Filtru aer HEPA (Bioweapon Defense Mode)",
+            "Structură ranforsată baterie"
+          ]
+        }
+      },
+      {
+        "id": "bmw-330e",
+        "name": "BMW 330e",
+        "cost": 90,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/99/99ca29a5-a9e2-4a41-89db-62b760ef7e03?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/6d/6d6993cc-05f2-42e6-82e3-ac2e6e7d1211?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/6d/6d6993cc-05f2-42e6-82e3-ac2e6e7d1211?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/38/3858734a-a720-4933-9c6d-4a1b2c41a90d?rule=mo-1600"
+        ],
+        "description": "Plăcerea de a conduce, electrificată. BMW 330e este sedanul sportiv perfect pentru era modernă. Poți face naveta zilnică în mod complet electric, fără emisii și zgomot, iar în weekend te poți bucura de dinamica legendară BMW activând modul Sport XtraBoost.",
+        "specs": {
+          "Transmission": "Automată Steptronic 8 trepte",
+          "Fuel": "Plug-in Hybrid",
+          "Year": "2023",
+          "Engine": "2.0L Turbo + Electric",
+          "Power": "292 CP (cu XtraBoost)"
+        },
+        "features": {
+          "audio": [
+            "HiFi Loudspeaker System",
+            "BMW Live Cockpit",
+            "Apple CarPlay Wireless"
+          ],
+          "comfort": [
+            "Precondiționare habitaclu (încălzire/răcire din app)",
+            "Scaune Sport",
+            "Pachet M Sport",
+            "Lumini ambientale"
+          ],
+          "safety": [
+            "Active Guard Plus",
+            "Parking Assistant",
+            "Senzori parcare",
+            "Lane Departure Warning"
+          ]
+        }
+      },
+      {
+        "id": "porsche-taycan",
+        "name": "Porsche Taycan",
+        "cost": 250,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/c3/c3c0ea40-5ee0-4bb1-b259-ef3a43d92021?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/61/6147ffb7-5460-4a18-b5d0-f0f5119a1d9f?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/43/4339333a-16da-44b7-a490-5b1619676b1c?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/1d/1de3fadb-0dcd-4a43-81ce-0329ee8501d2?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/95/9557c8bc-1b25-4e00-8459-d6e026f6777a?rule=mo-1600"
+        ],
+        "description": "Sufletul Porsche, acum electric. Taycan este dovada că mașinile electrice pot avea emoție. Poziția joasă la volan, direcția telepatica și suspensia activă îl fac să se conducă exact ca un 911. Sistemul electric de 800V permite încărcări ultra-rapide (5-80% în 22 min).",
+        "specs": {
+          "Transmission": "Automată 2 trepte (spate)",
+          "Fuel": "Electric",
+          "Year": "2023",
+          "Engine": "Dual Motor (Turbo S)",
+          "Power": "761 CP (Overboost)"
+        },
+        "features": {
+          "audio": [
+            "Burmester High-End 3D",
+            "Ecran Pasager",
+            "Apple Music integrat"
+          ],
+          "comfort": [
+            "Scaune Sport Adaptive (18 reglaje)",
+            "Plafon Panoramic fix",
+            "Porsche Electric Sport Sound",
+            "Advanced Climate Control"
+          ],
+          "safety": [
+            "Porsche InnoDrive",
+            "Night Vision Assist",
+            "Frâne PCCB (Ceramice)",
+            "Lane Change Assist"
+          ]
+        }
+      },
+      {
+        "id": "audi-etron-gt",
+        "name": "Audi RS e-tron GT",
+        "cost": 240,
+        "images": [
+          "https://img.classistatic.de/api/v1/mo-prod/images/8d/8d1617fa-e086-40a1-8042-420a675664f6?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/fa/fab7dad2-9675-4812-9987-748fc1e5443a?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/6f/6f9dbf40-987c-48be-bb1e-c3d0ff0f0505?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/27/275f6f70-7203-4412-9493-77eb82622dc9?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/ab/ab04cc1f-3f7b-4978-9700-ca50f4e4c5ae?rule=mo-1600",
+          "https://img.classistatic.de/api/v1/mo-prod/images/2b/2b7025c5-2548-4812-9150-370dcea82d45?rule=mo-1600"
+        ],
+        "description": "Un Grand Tourer electric de o frumusețe răpitoare. RS e-tron GT împarte platforma cu Taycan, dar oferă o experiență mai orientată spre confort și drumuri lungi. Designul exterior este sculptural, cu umerii lați și o semnătură luminoasă distinctă.",
+        "specs": {
+          "Transmission": "Automată 2 trepte",
+          "Fuel": "Electric",
+          "Year": "2023",
+          "Engine": "Dual Motor (RS)",
+          "Power": "646 CP (Boost)"
+        },
+        "features": {
+          "audio": [
+            "Bang & Olufsen 3D Premium",
+            "Audi Phone Box",
+            "Smartphone Interface"
+          ],
+          "comfort": [
+            "Scaune Sport Pro",
+            "Plafon Carbon (mai ușor)",
+            "Suspensie pneumatică adaptivă (3 camere)",
+            "e-tron Sport Sound"
+          ],
+          "safety": [
+            "Audi Pre Sense",
+            "Lane Assist",
+            "Laserlight Matrix LED",
+            "Parcare automată",
+            "Head-Up Display"
+          ]
+        }
+      }
+    ]
+  }
+]
