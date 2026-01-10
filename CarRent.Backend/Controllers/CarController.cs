@@ -17,7 +17,7 @@ namespace CarRent.Backend.Controllers
             _env = env;
         }
 
-        // Method 1: Return ALL cars (already implemented)
+        // Method 1: Return ALL cars 
         [HttpGet]
         public async Task<IActionResult> GetAllCars()
         {
@@ -29,11 +29,11 @@ namespace CarRent.Backend.Controllers
             return Ok(data);
         }
 
-        // --- ADD NEW CODE HERE (Method 2: Find by ID) ---
+        // Method 2: Find by ID
         [HttpGet("{id}")]
         public async Task<IActionResult> GetCarById(string id)
         {
-            // 1. Define the path to the file (needed here too)
+            // 1. Define the path to the file
             var path = Path.Combine(_env.ContentRootPath, "Data", "cars.json");
 
             // 2. Load the data
@@ -50,6 +50,6 @@ namespace CarRent.Backend.Controllers
             
             return Ok(car);
         }
-        // -------------------------------------------------------
+        
     }
 }

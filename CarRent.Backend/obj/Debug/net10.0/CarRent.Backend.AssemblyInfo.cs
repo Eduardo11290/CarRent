@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarRent.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6575d584d64e555b1712f7d7c1d1495ecbee514c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fbec7acb54beea22bc3b0f06fb020051489d05c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarRent.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarRent.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

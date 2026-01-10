@@ -1,6 +1,6 @@
 namespace CarRent.Backend.Services
 {
-    // Interface enables Dependency Injection and testing (bonus requirement)
+    // Interface enables Dependency Injection and testing
     public interface IFileService
     {
         Task SaveDataAsync<T>(string filePath, T data);

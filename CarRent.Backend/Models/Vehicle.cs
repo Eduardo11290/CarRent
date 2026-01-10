@@ -1,6 +1,6 @@
 namespace CarRent.Backend.Models
 {
-    // Abstractizare: Nu poți instanția un "Vehicul" generic
+    // Abstractizare
     public abstract class Vehicle
     {
         public string Id { get; set; } = string.Empty;
@@ -8,7 +8,7 @@ namespace CarRent.Backend.Models
         public decimal Cost { get; set; }
         public string Description { get; set; } = string.Empty;
         
-        // Polimorfism: Metodă virtuală ce poate fi suprascrisă
+        // Polimorfism
         public virtual string GetSummary()
         {
             return $"{Name} - {Cost} EUR/zi";
